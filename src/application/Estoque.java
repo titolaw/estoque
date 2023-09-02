@@ -38,7 +38,6 @@ public class Estoque {
 				for (Produto item : produtos) {
 					if (itemVenda == item.getCodigo()) {
 						System.out.println(item.venda(quantVenda));
-						break;
 					}
 				}
 				break;
@@ -58,7 +57,6 @@ public class Estoque {
 				for (Produto item : produtos) {
 					if (itemOpcao == item.getCodigo()) {
 						System.out.println(item);
-						break;
 					}
 				}
 				break;
@@ -70,7 +68,6 @@ public class Estoque {
 				for (Produto item : produtos) {
 					if (itemNome.equals(item.getNome())) {
 						System.out.println(item);
-						break;
 					}
 				}
 				break;
