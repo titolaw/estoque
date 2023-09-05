@@ -5,7 +5,7 @@ O sistema desenvolvido tem por função atendar o manejo do estoque de um pequen
 - O sistema enumra todos os produtos.
 - Os produtos tem quantidades, codigo e nome.
 - A venda diminui a quantidade estocada.
-- FALTA FAZER:
+- Opcional:
 - É emitido um aviso quando o produto tem menos de 5 unidades.
 - É registrado o dia da última reposição.
 
