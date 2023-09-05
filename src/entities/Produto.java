@@ -1,6 +1,7 @@
 package entities;
 
 public class Produto {
+
 	private int codigo;
 	private String nome;
 	private int quantidade;
@@ -38,7 +39,12 @@ public class Produto {
 
 	@Override
 	public String toString() {
-		return "Produto [codigo=" + codigo + ", nome=" + nome + ", quantidade=" + quantidade + "]";
+		return "Produto: " + nome + " (cód.: " + codigo + " | estoque: " + quantidade + ")";
+	}
+
+	public String getQuantidade() {
+		
+		return null;
 	}
 
 }
