@@ -8,7 +8,6 @@ package application;
 //Professor...: Ruan Pierre de Oliveira
 //Alunos.......:
 // 				Gustavo Tomio Magalhaes Kubo
-// 				Jonathan Oliveira Gois
 // 				Sérgio Magno Castor Pinheiro
 // 				Thiago Limeira de Alencar
 // 				Tiago Marques Tito
